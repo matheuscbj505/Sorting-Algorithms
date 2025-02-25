@@ -1,0 +1,34 @@
+2000 elementos
+Tempo para ordenar: 0.004125 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.004148 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.004747 s - Ordem A. Memoria: 4.03 KB 
+
+4000 elementos
+Tempo para ordenar: 0.016543 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.017423 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.023088 s - Ordem A. Memoria: 4.03 KB 
+
+8000 elementos
+Tempo para ordenar: 0.083740 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.070990 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.072970 s - Ordem A. Memoria: 4.03 KB 
+
+16000 elementos
+Tempo para ordenar: 0.270275 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.286522 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.342208 s - Ordem A. Memoria: 4.03 KB 
+
+32000 elementos
+Tempo para ordenar: 1.322733 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 1.146913 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 1.321650 s - Ordem A. Memoria: 4.03 KB 
+
+64000 elementos
+Tempo para ordenar: 4.606079 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 4.543537 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 4.282577 s - Ordem A. Memoria: 4.03 KB 
+
+128000 elementos
+Tempo para ordenar: 17.708184 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 21.126004 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 21.800769 s - Ordem A. Memoria: 4.03 KB 

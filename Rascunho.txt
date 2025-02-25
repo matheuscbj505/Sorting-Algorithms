@@ -1,0 +1,42 @@
+Fazer meu algoritmo 
+
+Dados dos Algoritmos: 
+
+ -----dados------
+
+Gráfico dos Algoritmos de Ordenação com Vetores de Ordem Crescente
+
+---- Texto + Gráfico ----------
+
+Gráfico dos Algoritmos de Ordenação com Vetores de Ordem Decrescente 
+
+----- Texto + Gráfico ----------
+
+Gráfico dos Algoritmos de Ordenação com Vetores de Ordem Aleatória 
+
+----- Texto + Gráfico -----------
+
+Gráfico da memória gasta por cada algoritmo 
+
+----- Texto + Gráfico -----------
+
+
+
+Análise dos dados obtidos considerando a complexidade 
+
+Algoritmos com vetores de ordem crescente: 
+Ordem de tempo gasto (do que mais gastou tempo ao que menos) 
+
+Algoritmos com vetores de ordem decrescente: 
+Ordem de tempo gasto (do que mais gastou tempo ao que menos)
+
+Algoritmos com vetores de ordem aleatória: 
+Ordem de tempo gasto (do que mais gastou tempo ao que menos)
+
+Conclusão: 
+
+Algoritmo de maior eficiencia no geral, relação com memória gasta, etc 
+
+Inserção 
+Assim, o consumo de tempo do algoritmo é proporcional ao número de execuções da comparação.
+

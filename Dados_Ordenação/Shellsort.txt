@@ -1,0 +1,34 @@
+2000 elementos
+Tempo para ordenar: 0.000106 s - Ordem C.
+Tempo para ordenar: 0.000136 s - Ordem D.
+Tempo para ordenar: 0.000340 s - Ordem A.
+
+4000 elementos
+Tempo para ordenar: 0.000213 s - Ordem C.
+Tempo para ordenar: 0.000280 s - Ordem D.
+Tempo para ordenar: 0.000706 s - Ordem A.
+
+8000 elementos
+Tempo para ordenar: 0.000372 s - Ordem C.
+Tempo para ordenar: 0.000596 s - Ordem D.
+Tempo para ordenar: 0.001527 s - Ordem A.
+
+16000 elementos
+Tempo para ordenar: 0.000932 s - Ordem C.
+Tempo para ordenar: 0.001482 s - Ordem D.
+Tempo para ordenar: 0.005983 s - Ordem A.
+
+32000 elementos
+Tempo para ordenar: 0.002139 s - Ordem C.
+Tempo para ordenar: 0.002849 s - Ordem D.
+Tempo para ordenar: 0.015796 s - Ordem A.
+
+64000 elementos
+Tempo para ordenar: 0.004187 s - Ordem C.
+Tempo para ordenar: 0.013091 s - Ordem D.
+Tempo para ordenar: 0.022657 s - Ordem A.
+
+128000 elementos
+Tempo para ordenar: 0.013754 s - Ordem C.
+Tempo para ordenar: 0.021228 s - Ordem D.
+Tempo para ordenar: 0.049627 s - Ordem A.
