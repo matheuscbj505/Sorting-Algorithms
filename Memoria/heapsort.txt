@@ -1,0 +1,73 @@
+2000 elementos
+Tempo para ordenar: 0.000077 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000081 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000308 s - Ordem A. Memoria: 4.03 KB 
+
+4000 elementos
+Tempo para ordenar: 0.000174 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000175 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000637 s - Ordem A. Memoria: 4.03 KB 
+
+8000 elementos
+Tempo para ordenar: 0.000358 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000377 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.001415 s - Ordem A. Memoria: 4.03 KB 
+
+16000 elementos
+Tempo para ordenar: 0.000654 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000785 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.002886 s - Ordem A. Memoria: 4.03 KB 
+
+32000 elementos
+Tempo para ordenar: 0.001569 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.002497 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.006330 s - Ordem A. Memoria: 4.03 KB 
+
+64000 elementos
+Tempo para ordenar: 0.002410 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.002710 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.014942 s - Ordem A. Memoria: 4.03 KB 
+
+128000 elementos
+Tempo para ordenar: 0.006104 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.013578 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.049898 s - Ordem A. Memoria: 4.03 KB 
+
+------------------------------------------------------------------------------
+~/AED2/lab_ordenacao » gcc main.c geracao.c heapsort.c -o heapsort1.out
+------------------------------------------------------------------------------
+~/AED2/lab_ordenacao » ./heapsort1.out          matheuscbj101@DESKTOP-0OCHNKM
+2000 elementos
+Tempo para ordenar: 0.000545 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000372 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000410 s - Ordem A. Memoria: 4.03 KB 
+
+4000 elementos
+Tempo para ordenar: 0.000791 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000636 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.000760 s - Ordem A. Memoria: 4.03 KB 
+
+8000 elementos
+Tempo para ordenar: 0.001970 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.001497 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.002108 s - Ordem A. Memoria: 4.03 KB 
+
+16000 elementos
+Tempo para ordenar: 0.005268 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.003058 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.004746 s - Ordem A. Memoria: 4.03 KB 
+
+32000 elementos
+Tempo para ordenar: 0.009848 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.007158 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.007634 s - Ordem A. Memoria: 4.03 KB 
+
+64000 elementos
+Tempo para ordenar: 0.023764 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.015895 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.019612 s - Ordem A. Memoria: 4.03 KB 
+
+128000 elementos
+Tempo para ordenar: 0.036966 s - Ordem C. Memoria: 4.03 KB 
+Tempo para ordenar: 0.031132 s - Ordem D. Memoria: 4.03 KB 
+Tempo para ordenar: 0.044834 s - Ordem A. Memoria: 4.03 KB 

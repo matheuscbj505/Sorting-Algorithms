@@ -1,0 +1,8 @@
+1 - Anotar os dados
+2 - Estudar os algoritmos 
+3 - Montar o mysorting.c
+4 - Fazer os graficos 
+5 - Fazer as análises
+6 - Fazer o vídeo 
+7 - Comparar pior caso do bubble com o quick
+
